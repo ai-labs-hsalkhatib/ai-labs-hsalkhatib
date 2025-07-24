@@ -36,8 +36,8 @@
 
 ## 🤝 Connect with Me
 
-- 📄 [LinkedIn](https://linkedin.com/in/hassanalkhatib)  
-- 📬 Email: your.email@example.com  
+- 📄 [LinkedIn](https://linkedin.com/in/hassan-saadeddine-al-khatib)  
+- 📬 Email: alkhatib.hassan@outlook.com 
 - 🌐 Portfolio site coming soon...
 
 ---
