@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hassan S Al Khatib
+# 👋 Hi, I'm Hassan S. Al Khatib
 
 🎓 PhD in Computational Engineering | 📊 People Analytics & Healthcare AI  
 🔍 Solving complex workforce and healthcare problems with machine learning, forecasting, and graph analytics.
