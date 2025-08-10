@@ -41,6 +41,7 @@
 - 🌐 Portfolio site coming soon...
 
 ---
+## :speech_balloon: My Favorite Quotes
 
 > *“The best way to predict the future is to build it.”* – Peter Drucker  
 > *“The people who are crazy enough to think they can change the world are the ones who do.”* – Steve Jobs
