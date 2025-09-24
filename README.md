@@ -7,14 +7,14 @@ This public repository hosts a curated portfolio of end-to-end machine learning 
 ---
 
 ## 🗂️ Table of Contents
-- [About](#about)
-- [Repository Structure](#repository-structure)
-- [Featured Projects (in progress)](#featured-projects-in-progress)
-- [Technical Focus](#technical-focus)
-- [How to Explore](#how-to-explore)
-- [Reproducibility & Standards](#reproducibility--standards)
-- [Research & Writing](#research--writing)
-- [Contact](#contact)
+- [ℹ️ About](#about)
+- [📂 Repository Structure](#repository-structure)
+- [🏗️ Featured Projects (in progress)](#featured-projects-in-progress)
+- [🎯 Technical Focus](#technical-focus)
+- [🔍 How to Explore](#how-to-explore)
+- [📋 Reproducibility & Standards](#reproducibility--standards)
+- [✍🏻 Research & Writing](#research--writing)
+- [🤝 Connect with Me](#contact)
 
 ---
 
