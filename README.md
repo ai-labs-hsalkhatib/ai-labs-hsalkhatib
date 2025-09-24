@@ -6,7 +6,7 @@ This public repository hosts a curated portfolio of end-to-end machine learning 
 
 ---
 
-## Table of Contents
+## 🗂️ Table of Contents
 - [About](#about)
 - [Repository Structure](#repository-structure)
 - [Featured Projects (in progress)](#featured-projects-in-progress)
@@ -18,7 +18,7 @@ This public repository hosts a curated portfolio of end-to-end machine learning 
 
 ---
 
-## About
+## ℹ️ About
 
 I build practical AI systems for two domains:
 1. **Workforce/People Analytics:** forecasting demand/supply and cost, retention risk, organizational network analysis, and decision support.
@@ -28,7 +28,7 @@ My work emphasizes statistical rigor, interpretability, and reproducibility.
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```text
 ai-ml-portfolio/
@@ -44,7 +44,7 @@ ai-ml-portfolio/
 
 ```
 ---
-## Featured Projects (in progress)
+## 🏗️ Featured Projects (in progress)
 
 ### Workforce Demand & Cost Forecasting
 Multivariate time series forecasting with hierarchical rollups; backtesting, confidence intervals, and scenario analysis.
@@ -62,7 +62,7 @@ Ontology-driven KG, entity/relation extraction, graph embeddings, and patient si
 
 ---
 
-## Technical Focus
+## 🎯 Technical Focus
 
 - **Modeling:** classical ML, time series (ETS/ARIMA/Prophet), gradient boosting, sequence models, graph analytics  
 - **Causality & Evaluation:** A/B design, uplift, causal diagrams, sensitivity analysis, robust validation  
@@ -72,7 +72,7 @@ Ontology-driven KG, entity/relation extraction, graph embeddings, and patient si
 
 ---
 
-## How to Explore
+## 🔍 How to Explore
 
 1. Browse the `projects/` directory and open a project’s `README.md` for scope and results.  
 2. Create the environment specified by `environment.yml` or `pyproject.toml`.  
@@ -83,7 +83,7 @@ Ontology-driven KG, entity/relation extraction, graph embeddings, and patient si
 
 ---
 
-## Reproducibility & Standards
+## 📋 Reproducibility & Standards
 
 - **Environments:** pinned dependencies via `conda` (`environment.yml`) or `uv/poetry` (`pyproject.toml`).  
 - **Structure:** consistent, modular Python package layout per project.  
@@ -93,7 +93,7 @@ Ontology-driven KG, entity/relation extraction, graph embeddings, and patient si
 
 ---
 
-## Research & Writing
+## ✍🏻 Research & Writing
 
 Selected work may be distilled into:
 - Method notes and implementation guides in `docs/`  
