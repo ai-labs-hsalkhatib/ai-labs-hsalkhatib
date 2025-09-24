@@ -1,47 +1,43 @@
-# 👋 Hi, I'm Hassan S. Al Khatib
+# Hassan S. Al-Khatib — AI & ML Portfolio
 
-🎓 PhD in Computational Engineering | 📊 People Analytics & Healthcare AI  
-🔍 Solving complex workforce and healthcare problems with machine learning, forecasting, and graph analytics.
+PhD in Computational Engineering • People Analytics & Healthcare AI
 
----
-
-## 🚀 What I Do
-
-- 🚀 Build machine learning pipelines for predictive analytics  
-- 📊 Create workforce planning tools with causal and time series models  
-- 🧩 Model complex systems using networks and knowledge graphs  
-- 🏥 Analyze patient journeys and healthcare outcomes with AI  
-- 🔍 Conduct applied research in Healthcare and Workforce AI  
+This public repository hosts a curated portfolio of end-to-end machine learning and analytics projects. Each project lives in its own subfolder with documentation, code, data samples (or data loaders), and reproducible environments.
 
 ---
 
-## 📂 Featured Projects
-
-**Coming Soon** — This section will include real-world, end-to-end ML and analytics projects:
-- Workforce demand and cost forecasting
-- Organizational Network Analysis
-- Patient journey modeling with deep learning
-- Healthcare knowledge graphs and similarity analysis
-
----
-
-## 📈 Current Focus
-
-- 🔧 Rebuilding this portfolio to showcase high-impact ML and analytics projects  
-- 🧪 Developing modular pipelines for forecasting, causal inference, and graph analytics  
-- 📚 Publishing tutorials and reproducible case studies  
-- 🧠 Exploring MLOps, explainability, and AI ethics in workforce and healthcare contexts  
+## Table of Contents
+- [About](#about)
+- [Repository Structure](#repository-structure)
+- [Featured Projects (in progress)](#featured-projects-in-progress)
+- [Technical Focus](#technical-focus)
+- [How to Explore](#how-to-explore)
+- [Reproducibility & Standards](#reproducibility--standards)
+- [Research & Writing](#research--writing)
+- [Contact](#contact)
 
 ---
 
-## 🤝 Connect with Me
+## About
 
-- 📄 [LinkedIn](https://linkedin.com/in/hassan-saadeddine-al-khatib)  
-- 📬 Email: alkhatib.hassan@outlook.com 
-- 🌐 Portfolio site coming soon...
+I build practical AI systems for two domains:
+1. **Workforce/People Analytics:** forecasting demand/supply and cost, retention risk, organizational network analysis, and decision support.
+2. **Healthcare AI:** patient-journey modeling, knowledge graphs, similarity search, and outcomes analytics.
+
+My work emphasizes statistical rigor, interpretability, and reproducibility.
 
 ---
-## :speech_balloon: My Favorite Quotes
 
-> *“The best way to predict the future is to build it.”* – Peter Drucker  
-> *“The people who are crazy enough to think they can change the world are the ones who do.”* – Steve Jobs
+## Repository Structure
+
+```text
+ai-ml-portfolio/
+├─ projects/
+│  ├─ workforce-forecasting/        # Time series & causal forecasting for demand/cost
+│  ├─ ona-network-analytics/        # Organizational Network Analysis (graph metrics & viz)
+│  ├─ patient-journey-modeling/     # Sequence models & pathway analytics
+│  ├─ healthcare-kg-similarity/     # Knowledge-graph construction & similarity search
+│  └─ ...                           # Additional projects added over time
+├─ templates/                        # Cookie-cutter project scaffolds, notebook templates
+├─ docs/                             # Shared docs, design notes, and methodology overviews
+└─ README.md                         # This landing page
