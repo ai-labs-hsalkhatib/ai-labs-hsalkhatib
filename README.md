@@ -1,8 +1,10 @@
 # Hassan S. Al-Khatib — AI & ML Portfolio
 
-PhD in Computational Engineering • People Analytics & Healthcare AI
+**PhD in Computational Engineering • People Analytics & Healthcare AI**  
 
-This public repository hosts a curated portfolio of end-to-end machine learning and analytics projects. Each project lives in its own subfolder with documentation, code, data samples (or data loaders), and reproducible environments.
+Solving complex workforce and healthcare problems with machine learning, forecasting, and graph analytics.  
+
+Researcher, **University of Alabama** (Neurocognitive AI) • Adjunct Faculty, **University of St. Thomas** (Natural Language Processing)
 
 ---
 
@@ -20,11 +22,20 @@ This public repository hosts a curated portfolio of end-to-end machine learning 
 
 ## ℹ️ About
 
-I build practical AI systems for two domains:
-1. **Workforce/People Analytics:** forecasting demand/supply and cost, retention risk, organizational network analysis, and decision support.
-2. **Healthcare AI:** patient-journey modeling, knowledge graphs, similarity search, and outcomes analytics.
+I design and deliver practical AI systems across two domains:
 
-My work emphasizes statistical rigor, interpretability, and reproducibility.
+- **Workforce / People Analytics** — forecasting demand, supply, and cost; retention risk; organizational network analysis; and decision support.  
+- **Healthcare AI** — patient-journey modeling, knowledge graphs, similarity search, and outcomes analytics.
+
+What I do:
+
+- Build **machine learning pipelines** for predictive analytics.  
+- Create **workforce planning tools** using causal inference and time-series models.  
+- Model **complex systems** with networks and knowledge graphs.  
+- Analyze **patient journeys and healthcare outcomes** with AI.  
+- Conduct **applied research** in Healthcare and Workforce AI.
+
+My work emphasizes **statistical rigor**, **interpretability**, and **reproducibility**.
 
 ---
 
