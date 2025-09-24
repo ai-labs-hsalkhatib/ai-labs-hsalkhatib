@@ -42,6 +42,7 @@ ai-ml-portfolio/
 ├─ docs/                             # Shared docs, design notes, and methodology overviews
 └─ README.md                         # This landing page
 
+```
 ---
 ## Featured Projects (in progress)
 
