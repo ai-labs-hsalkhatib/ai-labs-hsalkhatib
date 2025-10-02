@@ -22,20 +22,9 @@ Researcher, **University of Alabama** (Neurocognitive AI) • Adjunct Faculty, *
 
 ## ℹ️ About
 
-I design and deliver practical AI systems across two domains:
-
-- **Workforce / People Analytics** — forecasting demand, supply, and cost; retention risk; organizational network analysis; and decision support.  
-- **Healthcare AI** — patient-journey modeling, knowledge graphs, similarity search, and outcomes analytics.
-
-What I do:
-
-- Build **machine learning pipelines** for predictive analytics.  
-- Create **workforce planning tools** using causal inference and time-series models.  
-- Model **complex systems** with networks and knowledge graphs.  
-- Analyze **patient journeys and healthcare outcomes** with AI.  
-- Conduct **applied research** in Healthcare and Workforce AI.
-
+I design and deliver practical machine-learning and AI systems end-to-end—from data pipelines and modeling to evaluation, deployment, and monitoring. 
 My work emphasizes **statistical rigor**, **interpretability**, and **reproducibility**.
+I also conduct applied AI research in **healthcare** and **workforce/people analytics**, translating findings into reliable, production-ready solutions.
 
 ---
 
