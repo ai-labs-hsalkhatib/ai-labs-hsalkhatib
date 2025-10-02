@@ -53,7 +53,7 @@ ai-ml-portfolio/
 ---
 ## 🏗️ Featured Projects (in progress)
 
-### Workforce Demand & Cost Forecasting
+<!--### Workforce Demand & Cost Forecasting
 Multivariate time series forecasting with hierarchical rollups; backtesting, confidence intervals, and scenario analysis.
 
 ### Organizational Network Analysis (ONA)
@@ -63,7 +63,7 @@ Graph construction from survey/communication data; centrality, communities, cros
 Sequence labeling and temporal similarity for clinical pathways; evaluation against guideline-aligned outcomes.
 
 ### Healthcare Knowledge Graphs & Similarity
-Ontology-driven KG, entity/relation extraction, graph embeddings, and patient similarity for cohort discovery.
+Ontology-driven KG, entity/relation extraction, graph embeddings, and patient similarity for cohort discovery.-->
 
 > As projects finalize, this section will link directly to subfolders with full documentation and results.
 
