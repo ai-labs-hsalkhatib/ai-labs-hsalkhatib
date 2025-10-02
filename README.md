@@ -2,7 +2,7 @@
 
 **PhD in Computational Engineering • People Analytics & Healthcare AI**  
 
-Solving complex workforce and healthcare problems with machine learning, forecasting, and graph analytics.  
+Solving complex workforce and healthcare problems with AI & Machine Learning.  
 
 Researcher, **University of Alabama** (Neurocognitive AI) • Adjunct Faculty, **University of St. Thomas** (Natural Language Processing)
 
@@ -22,9 +22,16 @@ Researcher, **University of Alabama** (Neurocognitive AI) • Adjunct Faculty, *
 
 ## ℹ️ About
 
-- I design and deliver practical machine-learning and AI systems end-to-end—from data pipelines and modeling to evaluation, deployment, and monitoring. 
-- My work emphasizes **statistical rigor**, **interpretability**, and **reproducibility**.
-- I also conduct applied AI research in **healthcare** and **workforce/people analytics**, translating findings into reliable, production-ready solutions.
+I design and deliver end-to-end ML/AI systems—from data ingestion and feature engineering to modeling, evaluation, deployment, and post-production monitoring. I prioritize statistical rigor, interpretability, and reproducibility, with disciplined experimentation (baselines, ablations, uncertainty), robust validation, and clear documentation. 
+
+I also publish applied AI research in **healthcare** and **workforce analytics**, turning findings into reliable tools.
+
+**Focus areas**
+
+- Supervised/unsupervised/causal modeling; time-series and probabilistic forecasting
+- Representation learning and retrieval; evaluation beyond accuracy (calibration, fairness)
+- Reproducible science: notebooks, seeds, data/version governance, experiment tracking
+- Responsible AI: explainability, risk controls, and human-in-the-loop workflows
 
 ---
 
